@@ -1,4 +1,4 @@
-package com.amigoscode.customer;
+package com.samatov.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

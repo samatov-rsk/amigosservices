@@ -1,4 +1,4 @@
-package com.amigoscode.fraud;
+package com.samatov.fraud;
 
 import com.samatov.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
