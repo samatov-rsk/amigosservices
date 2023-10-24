@@ -3,11 +3,9 @@ package com.samatov.customer;
 import com.samatov.amqp.RabbitMQMessageProducer;
 import com.samatov.clients.fraud.FraudCheckResponse;
 import com.samatov.clients.fraud.FraudClient;
-import com.samatov.clients.notification.NotificationClient;
 import com.samatov.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 @Service
 @AllArgsConstructor
